@@ -2,7 +2,7 @@ class Arrow < Formula
   desc "Vector database with persistent storage built in Rust"
   homepage "https://github.com/varadanvk/arrow"
   url "https://github.com/varadanvk/arrow/archive/refs/tags/0.0.1.tar.gz"
-  sha256 "d5558cd419c8d46bdc958064cb97f963d1ea793866414c025906ec15033512ed"
+  sha256 "860da5d51c99cfada48e902bfa493dda40f2201dcce50cfd4954931a5569165f"
   license "MIT"
 
   depends_on "rust" => :build
